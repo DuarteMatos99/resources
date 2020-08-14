@@ -1,2 +1,2 @@
 # resources
-Markdown notes about technology subjects
+Markdown notes about technology subjects (PT/EN)
