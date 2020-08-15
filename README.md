@@ -1,2 +1,7 @@
 # Resources 📦
-Markdown notes about technology subjects (PT/EN)
+
+- G suite
+- JavaScript, Apps Script, Python, html5, css3
+- React, React Native
+- Linux, Windows
+- Computer Networking
